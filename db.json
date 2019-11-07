@@ -64,62 +64,7 @@
          "value":"Cost Estimate",
          "data":"",
          "id":"{B4878CA4-9F40-402F-A0C3-3A17FF5BC5C6}"
-      },
-      { 
-         "value":"Downselection/Advisory Multistep",
-         "data":"",
-         "id":"{C7500362-9B3A-4C56-96BD-2D5BBF120145}"
-      },
-      { 
-         "value":"Evaluation Criteria",
-         "data":"",
-         "id":"{3B894F74-5721-4A48-827F-5EDDA774CF17}"
-      },
-      { 
-         "value":"Funding of Contracts",
-         "data":"",
-         "id":"{09E151D9-14F7-48D2-A4A0-8F0D3E11D9D9}"
-      },
-      { 
-         "value":"Independent Government Cost Estimate (IGCE)",
-         "data":"",
-         "id":"{AAC32947-4DB9-422D-AC37-B1F98E100AF0}"
-      },
-      { 
-         "value":"Inherently Governmental",
-         "data":"",
-         "id":"{DB54295F-D05A-4897-A9AF-AA790EE36530}"
-      },
-      { 
-         "value":"J\u0026A",
-         "data":"",
-         "id":"{0028C678-6132-4F57-A205-327601E168C9}"
-      },
-      { 
-         "value":"JOFOC",
-         "data":"",
-         "id":"{03EF3E0D-7963-4F61-B989-9C882A9BE8B0}"
-      },
-      { 
-         "value":"Justification for Other Than Full and Open Competition (JOFOC) ",
-         "data":"",
-         "id":"{AF276938-1332-4F2F-B01E-D65B9DBE115A}"
-      },
-      { 
-         "value":"Market Research",
-         "data":"",
-         "id":"{1479E0C8-277A-4AD0-A7EB-1CA50AE22079}"
-      },
-      { 
-         "value":"OCI",
-         "data":"",
-         "id":"{840AF0D9-1D9A-4341-9DBE-83FB404A3836}"
-      },
-      { 
-         "value":"Organizational Conflict of Interest (OCI)",
-         "data":"",
-         "id":"{61FC1811-0285-48E3-BE1A-CBAC371EFD5E}"
-      }
+      } 
   ],
   "profile": {
     "name": "typicode"
