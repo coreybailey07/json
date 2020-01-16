@@ -1,0 +1,424 @@
+[
+    {
+        "id": 0,
+        "title": "<a href=\"#\">VAO Webinar: Integrity First, Ethics Always</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 1,
+        "title": "<a href=\"#\">VAO Webinar: Best Practices in Acquisition Policy</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 2,
+        "title": "<a href=\"#\">VAO Webinar: Back to Basics -  Negotiation and Source 1 Selection</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source PM Selection & Evaluation"
+    },
+    {
+        "id": 3,
+        "title": "<a href=\"#\">VAO Webinar: CORs: An Introduction and Overview of 1 the Function</a>",
+        "clp": "1",
+        "audience": "COR",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 4,
+        "title": "<a href=\"#\">VAO Webinar: Perspectives on Acquisition Planning</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source Selection & Evaluation "
+    },
+    {
+        "id": 5,
+        "title": "<a href=\"#\">VAO Webinar: Category Management Clearing the Confusion</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 6,
+        "title": "<a href=\"#\">VAO Webinar: Better Market Research, Better Collaboration, Better Results</a>",
+        "clp": "1",
+        "audience": "CO, COR",
+        "phase": "Acquisition Planning"
+    },
+    {
+        "id": 7,
+        "title": "<a href=\"#\">VAO Webinar: Hot Trends in Workforce Developmen</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award, Post Award "
+    },
+    {
+        "id": 8,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 115th Congress: Key Legislative 1 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 9,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 145th Congress: Key Legislative 4 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 10,
+        "title": "<a href=\"#\">VAO Webinar: Integrity First, Ethics Always</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 11,
+        "title": "<a href=\"#\">VAO Webinar: Best Practices in Acquisition Policy</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 12,
+        "title": "<a href=\"#\">VAO Webinar: Back to Basics -  Negotiation and Source 1 Selection</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source PM Selection & Evaluation"
+    },
+    {
+        "id": 13,
+        "title": "<a href=\"#\">VAO Webinar: CORs: An Introduction and Overview of 1 the Function</a>",
+        "clp": "1",
+        "audience": "COR",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 14,
+        "title": "<a href=\"#\">VAO Webinar: Perspectives on Acquisition Planning</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source Selection & Evaluation "
+    },
+    {
+        "id": 15,
+        "title": "<a href=\"#\">VAO Webinar: Category Management Clearing the Confusion</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 16,
+        "title": "<a href=\"#\">VAO Webinar: Better Market Research, Better Collaboration, Better Results</a>",
+        "clp": "1",
+        "audience": "CO, COR",
+        "phase": "Acquisition Planning"
+    },
+    {
+        "id": 17,
+        "title": "<a href=\"#\">VAO Webinar: Hot Trends in Workforce Developmen</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award, Post Award "
+    },
+    {
+        "id": 18,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 115th Congress: Key Legislative 1 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 19,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 145th Congress: Key Legislative 4 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 20,
+        "title": "<a href=\"#\">VAO Webinar: Integrity First, Ethics Always</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 21,
+        "title": "<a href=\"#\">VAO Webinar: Best Practices in Acquisition Policy</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 22,
+        "title": "<a href=\"#\">VAO Webinar: Back to Basics -  Negotiation and Source 1 Selection</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source PM Selection & Evaluation"
+    },
+    {
+        "id": 23,
+        "title": "<a href=\"#\">VAO Webinar: CORs: An Introduction and Overview of 1 the Function</a>",
+        "clp": "1",
+        "audience": "COR",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 24,
+        "title": "<a href=\"#\">VAO Webinar: Perspectives on Acquisition Planning</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source Selection & Evaluation "
+    },
+    {
+        "id": 25,
+        "title": "<a href=\"#\">VAO Webinar: Category Management Clearing the Confusion</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 26,
+        "title": "<a href=\"#\">VAO Webinar: Better Market Research, Better Collaboration, Better Results</a>",
+        "clp": "1",
+        "audience": "CO, COR",
+        "phase": "Acquisition Planning"
+    },
+    {
+        "id": 27,
+        "title": "<a href=\"#\">VAO Webinar: Hot Trends in Workforce Developmen</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award, Post Award "
+    },
+    {
+        "id": 28,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 115th Congress: Key Legislative 1 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 29,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 145th Congress: Key Legislative 4 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    }
+    ,
+    {
+        "id": 30,
+        "title": "<a href=\"#\">VAO Webinar: Integrity First, Ethics Always</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 31,
+        "title": "<a href=\"#\">VAO Webinar: Best Practices in Acquisition Policy</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 32,
+        "title": "<a href=\"#\">VAO Webinar: Back to Basics -  Negotiation and Source 1 Selection</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source PM Selection & Evaluation"
+    },
+    {
+        "id": 33,
+        "title": "<a href=\"#\">VAO Webinar: CORs: An Introduction and Overview of 1 the Function</a>",
+        "clp": "1",
+        "audience": "COR",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 34,
+        "title": "<a href=\"#\">VAO Webinar: Perspectives on Acquisition Planning</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source Selection & Evaluation "
+    },
+    {
+        "id": 35,
+        "title": "<a href=\"#\">VAO Webinar: Category Management Clearing the Confusion</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 36,
+        "title": "<a href=\"#\">VAO Webinar: Better Market Research, Better Collaboration, Better Results</a>",
+        "clp": "1",
+        "audience": "CO, COR",
+        "phase": "Acquisition Planning"
+    },
+    {
+        "id": 37,
+        "title": "<a href=\"#\">VAO Webinar: Hot Trends in Workforce Developmen</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award, Post Award "
+    },
+    {
+        "id": 38,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 115th Congress: Key Legislative 1 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 39,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 145th Congress: Key Legislative 4 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 40,
+        "title": "<a href=\"#\">VAO Webinar: Integrity First, Ethics Always</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 41,
+        "title": "<a href=\"#\">VAO Webinar: Best Practices in Acquisition Policy</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 42,
+        "title": "<a href=\"#\">VAO Webinar: Back to Basics -  Negotiation and Source 1 Selection</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source PM Selection & Evaluation"
+    },
+    {
+        "id": 43,
+        "title": "<a href=\"#\">VAO Webinar: CORs: An Introduction and Overview of 1 the Function</a>",
+        "clp": "1",
+        "audience": "COR",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 44,
+        "title": "<a href=\"#\">VAO Webinar: Perspectives on Acquisition Planning</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source Selection & Evaluation "
+    },
+    {
+        "id": 45,
+        "title": "<a href=\"#\">VAO Webinar: Category Management Clearing the Confusion</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 46,
+        "title": "<a href=\"#\">VAO Webinar: Better Market Research, Better Collaboration, Better Results</a>",
+        "clp": "1",
+        "audience": "CO, COR",
+        "phase": "Acquisition Planning"
+    },
+    {
+        "id": 47,
+        "title": "<a href=\"#\">VAO Webinar: Hot Trends in Workforce Developmen</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award, Post Award "
+    },
+    {
+        "id": 48,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 115th Congress: Key Legislative 1 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 49,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 145th Congress: Key Legislative 4 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    }
+    ,
+    {
+        "id": 50,
+        "title": "<a href=\"#\">VAO Webinar: Integrity First, Ethics Always</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 51,
+        "title": "<a href=\"#\">VAO Webinar: Best Practices in Acquisition Policy</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 52,
+        "title": "<a href=\"#\">VAO Webinar: Back to Basics -  Negotiation and Source 1 Selection</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source PM Selection & Evaluation"
+    },
+    {
+        "id": 53,
+        "title": "<a href=\"#\">VAO Webinar: CORs: An Introduction and Overview of 1 the Function</a>",
+        "clp": "1",
+        "audience": "COR",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 54,
+        "title": "<a href=\"#\">VAO Webinar: Perspectives on Acquisition Planning</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Source Selection & Evaluation "
+    },
+    {
+        "id": 55,
+        "title": "<a href=\"#\">VAO Webinar: Category Management Clearing the Confusion</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award Post Award"
+    },
+    {
+        "id": 56,
+        "title": "<a href=\"#\">VAO Webinar: Better Market Research, Better Collaboration, Better Results</a>",
+        "clp": "1",
+        "audience": "CO, COR",
+        "phase": "Acquisition Planning"
+    },
+    {
+        "id": 57,
+        "title": "<a href=\"#\">VAO Webinar: Hot Trends in Workforce Developmen</a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Solicitation, Source Selection & Evaluation, Award, Post Award "
+    },
+    {
+        "id": 58,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 115th Congress: Key Legislative 1 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    },
+    {
+        "id": 59,
+        "title": "<a href=\"#\">VAO Webinar: Inside the 145th Congress: Key Legislative 4 Developments and a Look Ahead </a>",
+        "clp": "1",
+        "audience": "CO, COR, PM",
+        "phase": "Acquisition Planning, Market Research, Award"
+    }
+]
